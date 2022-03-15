@@ -1,4 +1,1 @@
-[![Jellychoco's github stats](https://github-readme-stats.vercel.app/api?username=jellychoco)](https://github.com/anuraghazra/github-readme-stats)
-
-
-# 자 이제 깃헙을 시작해볼까!
+![Jellychoco's GitHub stats](https://github-readme-stats.vercel.app/api?username=jellychoco&show_icons=true&theme=radical)
