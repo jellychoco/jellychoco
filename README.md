@@ -10,6 +10,8 @@
 <a href="https://usagescope.com"><img src="https://api.usagescope.com/v1/badge/p_cdfda2e213e48fdde1dcc2d6bd264632.svg" alt="UsageScope ranking"></a>
 ---
 
+[![UsageScope ranking](https://api.usagescope.com/v1/badge/p_cdfda2e213e48fdde1dcc2d6bd264632.svg)](https://usagescope.com)
+
 ### UsageScope
 
 A macOS menu-bar app that tracks AI coding-tool usage and cost across providers, with a monthly cross-provider ranking. The badge above is my live standing on the leaderboard &mdash; it updates on its own every month, so it always shows the current season.
