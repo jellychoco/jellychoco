@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://usagescope.com">
-    <img src="https://api.usagescope.com/v1/badge/p_cdfda2e213e48fdde1dcc2d6bd264632.svg?v=5" alt="UsageScope ranking" />
+    <img src="https://api.usagescope.com/v1/badge/p_cdfda2e213e48fdde1dcc2d6bd264632.svg?v=6" alt="UsageScope ranking" />
   </a>
 </p>
 
