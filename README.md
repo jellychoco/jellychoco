@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://usagescope.com">
-    <img src="https://api.usagescope.com/v1/badge/p_cdfda2e213e48fdde1dcc2d6bd264632.svg?v=6" alt="UsageScope ranking" />
+    <img src="https://api.usagescope.com/v1/badge/p_cdfda2e213e48fdde1dcc2d6bd264632.svg?v=7" alt="UsageScope ranking" />
   </a>
 </p>
 
@@ -21,3 +21,4 @@ A macOS menu-bar app that tracks AI coding-tool usage and cost across providers,
 - GitHub: [@jellychoco](https://github.com/jellychoco)
 
 <sub>Badge powered by UsageScope &middot; ranking auto-refreshes monthly.</sub>
+
