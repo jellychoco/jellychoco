@@ -50,4 +50,4 @@ A mobile devotional product for scripture, journaling, prayer, and a daily refle
 
 ### <img src="https://raw.githubusercontent.com/beefiker/superloopy/main/.github/assets/franky.png" width="24" alt="Superloopy mascot" /> [Superloopy](https://github.com/beefiker/superloopy)
 
-I contribute through [my fork ↗](https://github.com/jellychoco/superloopy) to Superloopy, an evidence-first loop for Codex work. The upstream project uses repo-local evidence and verification gates to keep agent results grounded in proof.
+Contributor to Superloopy, an evidence-first loop for Codex work. The project uses repo-local evidence and verification gates to keep agent results grounded in proof.
