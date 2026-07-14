@@ -1,13 +1,7 @@
-<p align="center">
-  <a href="https://usagescope.com">
-    <img src="https://usagescope.com/icon-512.png" width="72" alt="UsageScope" />
-  </a>
-</p>
-
 <h1 align="center">JellyChoco</h1>
 
 <p align="center">
-  I build local-first developer tools, native macOS apps, and focused products that solve a real daily problem.
+  Local-first developer tools · Native macOS apps · Focused AI products
 </p>
 
 <p align="center">
@@ -17,7 +11,7 @@
 </p>
 
 <p align="center">
-  <sub>A live monthly UsageScope ranking, powered by the product I build.</sub>
+  <strong>UsageScope</strong> · Reached <strong>#2 in Korea</strong> and <strong>#38 in the U.S.</strong> in App Store Developer Tools
 </p>
 
 ---
@@ -27,16 +21,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://usagescope.com">UsageScope ↗</a></h3>
-      <p>Local-first AI usage, quota, and cost visibility for the tools developers use every day.</p>
-      <p>Available for macOS, with an active Windows port built in Tauri, Rust, React, and TypeScript.</p>
-      <p><strong>Proof:</strong> measured warm scans were 82.8% faster across 10,199 real log files. It also includes an opt-in public ranking and shareable live badge.</p>
+      <h3><a href="https://www.usagescope.com/"><img src="https://www.usagescope.com/icon-96.webp" width="28" alt="UsageScope icon" /> UsageScope ↗</a></h3>
+      <p>The native control room for AI limits: quotas, reset windows, token activity, rankings, profiles, and multiple accounts in one desktop surface.</p>
+      <p><strong>App Store traction:</strong> reached #2 in Korea and #38 in the U.S. for Developer Tools.</p>
+      <p><strong>Why it stands out:</strong> 30+ AI services, 14 languages, macOS + Windows, and a live opt-in ranking that turns product usage into a shareable profile.</p>
       <sub>macOS · Windows · Swift · Tauri · Rust · React</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🔔 ReviewBell <sub>(private alpha)</sub></h3>
+      <h3><a href="https://reviewbell-landing.pages.dev/"><img src="https://reviewbell-landing.pages.dev/logo.png" width="28" alt="ReviewBell logo" /> ReviewBell ↗</a></h3>
       <p>A native macOS inbox for urgent App Store reviews: surface the signal, triage it locally, draft a response, and turn confirmed bugs into bounded Codex work.</p>
-      <p><strong>Proof:</strong> live read-only App Store review sync is verified. Public replies remain explicitly owner-approved.</p>
+      <p><strong>Proof:</strong> live App Store review sync is verified; automation is guarded so public replies remain explicitly owner-approved.</p>
+      <p><a href="https://reviewbell-landing.pages.dev/">See ReviewBell ↗</a></p>
       <sub>macOS · Swift · App Store Connect · SQLite · Codex</sub>
     </td>
   </tr>
